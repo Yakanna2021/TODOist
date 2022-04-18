@@ -1,0 +1,20 @@
+.container{
+    color:blue;
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?t=st=1649757231~exp=1649757831~hmac=22b27707d25e4eda57d2069896085787eeab321e14025ed81b01e3f6b80432a6&w=826");
+    background-size: auto;
+    margin: 0px;
+}
+.container{
+    background-color: aquamarine;
+}
+.container>ul{
+    display: inline-block;
+}
+.heading{
+    color: aqua;
+    font-style: italic;
+}
+.u-list{
+    background-color: blue;
+}
